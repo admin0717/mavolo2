@@ -131,7 +131,7 @@ const Products: NextPage = () => {
           <div className="mx-12 lg:mx-24 grid lg:grid-cols-2 gap-8 md:grid-cols-1 grid-cols-1">
             <ProductCard title="10W and 12W">
               <ul className="space-y-2 list-disc list-outside pl-4">
-                <li className="">Single port USB charger socket</li>
+                <li className=""> USS single port USB charger socket</li>
                 <li>Compliant with QC 2.0 and QC 3.0</li>
                 <li>
                   Avaialable in 30+ varieties (Roma, Penta Modular, GM, Orient
